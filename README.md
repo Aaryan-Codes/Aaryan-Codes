@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IMDB Clone Project**
 
-- 🌱 I’m currently learning **React, Node.js, Express.js**
+- 🌱 I’m currently learning **Node.js, Express.js**
 
 - 👯 I’m looking to collaborate on **Stock Exchange App(MERN)**
 
