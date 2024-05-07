@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-codes" /> </p>
 
-- 🔭 I’m currently working on **IMDB Clone Project**
+- 🔭 I’m currently working on **Music Recommendation Project**
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
