@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Music Recommendation Project**
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Rust, Go**
 
 - 👯 I’m looking to collaborate on **Stock Exchange App(MERN)**
 
