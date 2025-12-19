@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Singh</h1>
 <h3 align="center">A passionate full stack developer from India. What’s the object-oriented way to become wealthy? Inheritance.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryan-codes" alt="aaryan-codes" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Go**
   
